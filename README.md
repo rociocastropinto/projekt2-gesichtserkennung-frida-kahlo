@@ -105,9 +105,9 @@ Full bibliography available in the written report.
 
 ## Notes for the Examiner
 
-- The notebook was executed in full before submission — all figures and output
+- The notebook was executed in full before submission. All figures and output
   tables are visible without running any code.
-- To re-run from scratch: **Kernel → Restart & Run All**.
+- To re-run from scratch: **Kernel → Restart and Run All**.
 - Model files are included in `models/` so no internet access is needed.
 - If package installation fails (e.g. restricted university environment), run
   manually: `pip install opencv-python numpy matplotlib ipywidgets`
