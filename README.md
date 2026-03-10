@@ -1,4 +1,4 @@
-# Projekt 2: Gesichtserkennung & Verpixelung
+# Projekt 2: Gesichtserkennung And Verpixelung
 **Face Detection & Anonymisation — Case Study: Frida Kahlo**
 
 A Python tool that automatically detects faces in photographs and anonymises
